@@ -1,0 +1,9 @@
+.subscribe{
+    display: flex;
+    gap: 300px;
+    justify-content: center;
+    padding: 150px;
+    background-color: #F7F6F2;
+    height: 200px;
+
+}

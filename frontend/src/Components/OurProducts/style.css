@@ -1,0 +1,17 @@
+.cards{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    justify-content: center;
+}
+.card{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    height: 300px;
+}
+.text{
+    text-align: center;
+}
+.ourproduct{
+    margin: 200px;
+}

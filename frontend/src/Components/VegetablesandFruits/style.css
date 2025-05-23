@@ -1,0 +1,18 @@
+.vegetableandfruit{
+    background-image: url(https://preview.colorlib.com/theme/vegefoods/images/bg_1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 700px;
+}
+.header{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    padding:200px;
+    gap: 50px;
+}
+.btn{
+    border-radius: 30%;
+    ;
+}

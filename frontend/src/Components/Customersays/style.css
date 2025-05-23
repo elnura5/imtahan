@@ -1,0 +1,36 @@
+.photo img{
+    height: 100px;
+    width: 100px;
+    border: 1px;
+    border-radius: 50%;
+ 
+}
+.boxes{
+    display: flex;
+    justify-content: center;
+    gap: 100px;
+    margin: 100px;
+}
+.customersays{
+    margin: 200px;
+}
+.text{
+    display: grid;
+    gap: 20px;
+}
+h2{
+    font-size: 3rem;
+}
+.photo{
+    display: flex;
+    justify-content: center;
+}
+.box{
+    display: grid;
+    gap: 30px;
+    text-align: center;
+}
+.info{
+    display: grid;
+    gap: 10px;
+}
